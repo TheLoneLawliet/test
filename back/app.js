@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 
-const mdbServe = 'mongodb+srv://TheLonwLawliet:zmjyEfJ0hKGZHbA1@cluster0.ppbyjdg.mongodb.net/?retryWrites=true&w=majority'
+const mdbServe = '****'
 
 
 const Product = require('./models/product');
